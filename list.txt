@@ -1,0 +1,4 @@
+This is the page where the user can view the list of items.
+ Such as products,articles and more.
+ The user can view ordered,unordered and defintion lists.
+ Easy to naigate to the view page.
