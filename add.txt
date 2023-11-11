@@ -1,1 +1,1 @@
-add module is a feature to add restuarants details, such as it's name,location,menu and other relevant information
+add module jdkhdis a feature to add restuarants details, such as it's name,location,menu and other relevant information
