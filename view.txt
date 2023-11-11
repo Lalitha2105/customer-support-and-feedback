@@ -1,0 +1,4 @@
+
+Project views allow you to quickly view specific aspects of your project. 
+Each view is displayed on a separate tab in your project. 
+For example, you can have: A view that shows all items not yet started (filter on "Status")
