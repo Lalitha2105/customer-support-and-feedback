@@ -1,0 +1,1 @@
+ this is the commond for delete ,removes all the repositories,forks of private repositories,wikis,issues,pill requests for pages the delete 
